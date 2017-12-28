@@ -1,0 +1,699 @@
+
+<!DOCTYPE html>
+<!--[if IE 6]>
+<html id="ie6" class="ancient-ie old-ie no-js bit-html" dir="ltr" lang="zh-CN">
+<![endif]-->
+<!--[if IE 7]>
+<html id="ie7" class="ancient-ie old-ie no-js bit-html" dir="ltr" lang="zh-CN">
+<![endif]-->
+<!--[if IE 8]>
+<html id="ie8" class="old-ie no-js bit-html" dir="ltr" lang="zh-CN">
+<![endif]-->
+<!--[if IE 9]>
+<html id="ie9" class="old-ie9 no-js bit-html" dir="ltr" lang="zh-CN">
+<![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->
+<html class="no-js bit-html" dir="ltr" lang="zh-CN">
+<!--<![endif]-->
+<head>
+	<!-- for 360 -->
+	<meta name="renderer" content="webkit">
+	<meta name="applicable-device" content="pc,mobile"> <!-- for baidu -->
+	<meta http-equiv="Cache-Control" content="no-transform" /> <!-- for baidu -->
+    <meta name="MobileOptimized" content="width"/><!-- for baidu -->
+    <meta name="HandheldFriendly" content="true"/><!-- for baidu -->
+
+	<!-- start of customer header -->
+		<!-- end of customer header -->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+			<title>OurExp</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="pingback" href="http://59a6670e96598.t73.qifeiye.com/xmlrpc.php" />
+		<!--[if lt IE 9]>
+	<script src="http://59a6670e96598.t73.qifeiye.com/FeiEditor/bitSite/js/html5shiv.min.js"></script>
+	<![endif]-->
+		<!--[if lt IE 9]>
+	<script src="http://59a6670e96598.t73.qifeiye.com/FeiEditor/bitSite/js/respond.min.js"></script>
+	<![endif]-->
+		<style type="text/css" id="static-stylesheet"></style>
+	<link rel="stylesheet" href="http://59a6670e96598.t73.qifeiye.com/qfy-content/cache/scripts/357338bd69e69b131cda72ab8598213f.css" type="text/css" media="all" />
+<style type='text/css'>
+
+</style>
+<script type='text/javascript'>
+/* <![CDATA[ */
+/* thickbox */
+var thickboxL10n = {"next":"\u4e0b\u4e00\u5f20 >","prev":"< \u4e0a\u4e00\u5f20","image":"\u56fe\u7247","of":"\/","close":"\u5173\u95ed","noiframes":"\u8fd9\u4e2a\u529f\u80fd\u9700\u8981iframe\u7684\u652f\u6301\u3002\u60a8\u53ef\u80fd\u7981\u6b62\u4e86iframe\u7684\u663e\u793a\uff0c\u6216\u60a8\u7684\u6d4f\u89c8\u5668\u4e0d\u652f\u6301\u6b64\u529f\u80fd\u3002","loadingAnimation":"\/\/fast.qifeiye.com\/FeiEditor\/bitSite\/images\/preloader.gif"};
+/* dt-plugins */
+var dtLocal = {"passText":"\u67e5\u770b\u8fd9\u4e2a\u52a0\u5bc6\u8d44\u8baf\uff0c\u8bf7\u5728\u4e0b\u9762\u8f93\u5165\u5bc6\u7801\uff1a","moreButtonAllLoadedText":"\u5168\u90e8\u5df2\u52a0\u8f7d","postID":"12482","ajaxurl":"http:\/\/59a6670e96598.t73.qifeiye.com\/admin\/admin-ajax.php","contactNonce":"1c923ee123","ajaxNonce":"de37daeeca","pageData":{"type":"page","template":"page","layout":null},"themeSettings":{"smoothScroll":"on"}};
+
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://59a6670e96598.t73.qifeiye.com/qfy-content/cache/scripts/35b59997d48670cda9d31f4136064a90.js">/*Cache!*/</script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://59a6670e96598.t73.qifeiye.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://59a6670e96598.t73.qifeiye.com/qfy-includes/wlwmanifest.xml" />
+
+<link rel='canonical' href='http://59a6670e96598.t73.qifeiye.com/' />
+<link rel='shortlink' href='http://59a6670e96598.t73.qifeiye.com/?p=12482' />
+<style class='style_0'>.bitRightSider .widget-title,.bitLeftSider .widget-title{padding:0 0 0 10px;height:28px;line-height:28px;background-color:transparent;margin:0px;font-family:黑体;font-size:16px;font-weight:normal;font-style:normal;text-decoration:none;color:#ffffff;border-top:0;border-left:0;border-right:0;border-bottom:0;background-image:none;-webkit-border-top-left-radius: 0;-webkit-border-top-right-radius: 0;-moz-border-radius-topleft: 0;-moz-border-radius-topright: 0;border-top-left-radius: 0;border-top-right-radius: 0;} .bitRightSider .widget-title,.bitLeftSider .widget-title{border-top:0;border-left:0;border-right:0;} .bitRightSider .bitWidgetFrame,.bitLeftSider .bitWidgetFrame{border-bottom:0;border-top:0;border-left:0;border-right:0;padding:4px 10px 4px 10px;}.bitRightSider .site_tooler,.bitLeftSider .site_tooler{-webkit-box-shadow:none;box-shadow:none;}.bitRightLeftSiderWidget.site_tooler .bitWidgetFrame,.bitRightLeftSiderWidget.site_tooler .bitWidgetFrame{background-color:transparent;background-image:none;background-repeat: repeat;-webkit-border-bottom-left-radius: 0px;border-bottom-left-radius: 0px;-webkit-border-bottom-right-radius: 0px;border-bottom-right-radius: 0px;}</style><style class='style_0'>.footer .widget-title{padding:0 0 0 10px;height:28px;line-height:28px;background-color:#024886;margin:0px;font-family:;font-size:px;font-weight:normal;font-style:normal;text-decoration:none;color:#fff;border-top:0;border-left:0;border-right:0;border-bottom:0;background-image:none;-webkit-border-top-left-radius: 4px;-webkit-border-top-right-radius: 4px;-moz-border-radius-topleft: 4px;-moz-border-radius-topright: 4px;border-top-left-radius: 4px;border-top-right-radius: 4px;} .footer .widget-title{border-top:0;border-left:0;border-right:0;} .footer  .bitWidgetFrame{border-bottom:0;border-top:0;border-left:0;border-right:0;padding:4px 10px 4px 10px;}.footer .site_tooler{-webkit-box-shadow:none;box-shadow:none;}.footer .site_tooler .bitWidgetFrame{background-color:transparent;background-image:none;-webkit-border-bottom-left-radius: 4px;border-bottom-left-radius: 4px;-webkit-border-bottom-right-radius: 4px;border-bottom-right-radius: 4px;}</style>		<script type="text/javascript">
+		var qfyuser_ajax_url = 'http://59a6670e96598.t73.qifeiye.com/admin/admin-ajax.php';
+		</script>
+			<script type="text/javascript">
+		var qfyuser_upload_url = 'http://59a6670e96598.t73.qifeiye.com/qfy-content/plugins/qfyuser/lib/fileupload/fileupload.php';
+		</script>
+	<link rel="icon" href="http://59a6670e96598.t73.qifeiye.com/qfy-content/uploads/2017/09/788ac6de0b14afa4aeb75b684eb0aa85.png" type="image/png"/>
+<link rel="apple-touch-icon-precomposed" href="http://59a6670e96598.t73.qifeiye.com/qfy-content/uploads/2017/09/788ac6de0b14afa4aeb75b684eb0aa85.png" />
+<link rel="apple-touch-icon" href="http://59a6670e96598.t73.qifeiye.com/qfy-content/uploads/2017/09/788ac6de0b14afa4aeb75b684eb0aa85.png" />
+<meta name="robots" content="index, follow" />
+		<style type="text/css" >
+</style>
+		<script type="text/javascript">
+			dtGlobals.logoEnabled = 1;dtGlobals.curr_id = 12482;dtGlobals.logoURL = '';dtGlobals.logoW = '0';dtGlobals.logoH = '0';dtGlobals.qfyname = '起飞页';dtGlobals.id = '59a6670e96598';dtGlobals.language = '';smartMenu = 0;document.cookie='resolution='+Math.max(screen.width,screen.height)+'; path=/';
+			dtGlobals.gallery_bgcolor = 'rgba(51,51,51,1)';dtGlobals.gallery_showthumbs = '0';dtGlobals.gallery_style = '';dtGlobals.gallery_autoplay = '0';dtGlobals.gallery_playspeed = '3';dtGlobals.gallery_imagesize = '100';dtGlobals.gallery_stopbutton = '';dtGlobals.gallery_thumbsposition = '';dtGlobals.gallery_tcolor = '#fff';dtGlobals.gallery_tsize = '16';dtGlobals.gallery_dcolor = '#fff';dtGlobals.gallery_dsize = '14';dtGlobals.gallery_tfamily = '';dtGlobals.gallery_dfamily = '';dtGlobals.gallery_blankclose = '0';dtGlobals.fm_showstyle = '';dtGlobals.fm_showspeed = '';dtGlobals.cdn_url = 'http://static.qifeiye.com';dtGlobals.qfymodel = "";
+			            			var socail_back_url = '';
+
+		</script>
+
+
+
+</head>
+
+
+<body>
+
+<div   id="page"  class='wide'>
+	<!-- left, center, classical, classic-centered -->
+	<!-- !Header -->
+	<header id="header" class="logo-left wf-mobile-hidden headerPM menuPosition" role="banner"><!-- class="overlap"; class="logo-left", class="logo-center", class="logo-classic" -->
+		<div class="wf-wrap">
+			<div class="wf-table">
+
+<div id="branding" class="wf-td bit-logo-bar" style="" >
+	<a class="bitem logo small" style="display: table-cell;"
+		<span class="logospan">
+			<img class="preload-me" src="logo.png" width="441" height="150" alt="OurExp" />
+		</span>
+	</a>
+	<!-- <div id="site-title" class="assistive-text"></div>
+	<div id="site-description" class="assistive-text"></div> -->
+</div>
+<div class="wf-mobile-visible wf-td assistive-info    " role="complementary"  >
+   <div class="top-bar-right right bit_widget_more" bitdatamarker="bitHeader-2" bitdataaction="site_fix_container" bitdatacolor="white">
+	 </div>
+</div>
+
+
+		<!-- !- Navigation -->
+		<nav style="0" id="navigation" class="wf-td"   bitDataAction="site_menu_container" bitDataLocation="primary" >
+			<ul id="main-nav" data-st="0" data-sp="0"  data-fh="" data-mw="" data-lh="" class="mainmenu fancy-rollovers wf-mobile-hidden bit-menu-default underline-hover position-text-right"      data-bit-menu=underline-hover data-bit-float-menu=underline-hover ><li class=" menu-item menu-item-type-post_type menu-item-object-page bit-menu-post-id-10187 menu-item-10188 first">
+				<a href="file:///C:/Users/HP%20User/Desktop/OurExp/web"><span>Home</span></a></li>
+      </ul>
+
+			<a  data-padding='' data-top='8' data-right='8' rel="nofollow" id="mobile-menu" style="display:none;" class="glyphicon glyphicon-icon-align-justify dropTopStyle center" >
+				<span class="menu-open  phone-text">首页</span>
+				<span class="menu-close">关闭</span>
+				<span class="menu-back">返回上一级</span>
+				<span class="wf-phone-visible">&nbsp;</span>
+			</a>
+
+		</nav>
+
+		<div style="display:none;" id="main-nav-slide">
+			<div class="main-nav-slide-inner" data-class="" >
+				<div  class="floatmenu-bar-right bit_widget_more" bitdatamarker="bitHeader-3" bitdataaction="site_fix_container" bitdatacolor="white">
+				</div>
+			</div>
+		</div>
+
+
+			</div><!-- #branding -->
+		</div><!-- .wf-wrap -->
+	</header><!-- #masthead -->
+
+ <section class="bitBanner" id="bitBanner" bitdatamarker="bitBanner" bitdataaction="site_fix_container" >
+	</section>
+<div id="main" class="bit_main_content">
+	<div class="main-gradient"></div>
+		<div class="wf-wrap">
+			<div class="wf-container-main">
+				<div id="content" class="content" role="main">
+					<div class="main-outer-wrapper ">
+        		<div class="bit_row">
+            	<div class="twelve columns no-sidebar-content ">
+              	<div class="bit_row">
+                	<div class="content-wrapper twelve columns ">
+                  	<section  data-fixheight="" class="qfy-row-1-5a370f237a7ce344483 section     smfull  section-text-no-shadow section-inner-no-shadow section-normal"  id="bit_dzlgc"  style='margin-bottom:0;border-radius:0px;color:#666666;' >
+                  	<style class="row_class qfy_style_class">
+										@media only screen and (min-width: 992px){section.section.qfy-row-1-5a370f237a7ce344483{padding-left:0;padding-right:0;padding-top:0;padding-bottom:50px;margin-top:0;}}
+										@media only screen and (max-width: 992px){.bit-html section.section.qfy-row-1-5a370f237a7ce344483{padding-left:15px;padding-right:15px;padding-top:0;padding-bottom:50px;margin-top:0;}}
+	                	</style>
+    	              	<div class="section-background-overlay background-overlay grid-overlay-0 " style="background-color: transparent;">
+					          	</div>
+
+                   		<div class="container">
+                   		<div class="row qfe_row">
+            						<div data-animaleinbegin="90%" data-animalename="qfyfadeInUp"  data-duration="" data-delay=""  class=" qfy-column-1-5a370f237aa2f203170 qfy-column-inner  vc_span12  text-default small-screen-undefined fullrow"  data-dw="1/1" data-fixheight="" >
+													<div style=";position:relative;;" class="column_inner " >
+														<div class=" background-overlay grid-overlay-" style="background-color:transparent;width:100%;">
+														</div>
+														<div class="column_containter" style="z-index:3;position:relative;" >
+															<section  data-fixheight="" class="qfy-row-2-5a370f237acb4578895 section     bothfull  section-text-no-shadow section-inner-no-shadow section-normal"   style='margin-bottom:0;border-radius:0px;color:#000000;' >
+                            		<style class="row_class qfy_style_class">
+																@media only screen and (min-width: 992px){section.section.qfy-row-2-5a370f237acb4578895{padding-left:0;padding-right:0;padding-top:0;padding-bottom:0;margin-top:0;min-height:90vh;}}
+																@media only screen and (max-width: 992px){.bit-html section.section.qfy-row-2-5a370f237acb4578895{padding-left:15px;padding-right:15px;padding-top:0;padding-bottom:0;margin-top:0;min-height:90vh;}}
+	                            	</style>
+                              		<div data-time="3" data-imagebgs="" class="background-media" backgroundSize='true'style="background-image: url('background.jpg');background-repeat:no-repeat; background-size:cover; background-attachment:scroll; background-position:0 0%;">
+            											</div>
+                          	    	<div class="section-background-overlay background-overlay grid-overlay-0 " style="background-color: rgba(0,0,0,0.2);">
+																	</div>
+    															<div class="container">
+                                		<div class="row qfe_row">
+                                  		<div data-animaleinbegin="90%" data-animalename="qfyfadeInUp"  data-duration="" data-delay=""  class=" qfy-column-2-5a370f237afe3975074 qfy-column-inner  vc_span12  text-Default small-screen-Default column_middle fullrow"  data-dw="1/1" data-fixheight="" >
+																				<div style="margin-top:0;margin-bottom:0;margin-left:0;margin-right:0;border-radius:0px;;position:relative;;" class="column_inner " >
+																					<div class=" background-overlay grid-overlay-0" style="background-color:transparent;width:100%;">
+																					</div>
+																					<div class="column_containter" style="z-index:3;position:relative;" >
+																						<div id="vc_header_5a370f237b3de711"  m-padding="0px 0px 0px 0px"  p-padding="0 0 0 0" css_animation_delay="0" qfyuuid="qfy_header_dbbme" data-anitime='0.7'  class="qfy-element minheigh1px qfe_text_column qfe_content_element " style="position: relative;;;background-repeat: no-repeat;;margin-top:0;margin-bottom:0;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;">
+																							<style>#vc_header_5a370f237b3de711 .line-abs::before{position: absolute; content: ''; width:25px; height:1px; background-color:#ffffff; left:calc(50% - 12.5px); top: 0px; margin: 0;}#vc_header_5a370f237b3de711:hover .line-abs{width:50px !important; transition: all ease .6s;}#vc_header_5a370f237b3de711 .line-abs{transition: all ease .6s !important;}@media only screen and (min-width: 760px) {#vc_header_5a370f237b3de711 .button_wrapper{opacity:0;top:auto !important;right:0 !important;right:-100px !important;transition: all ease .6s;}#vc_header_5a370f237b3de711:hover .button_wrapper{opacity:1;top:auto !important;right:0 !important;transition: all ease .6s;}}@media only screen and (max-width: 760px) {#vc_header_5a370f237b3de711 .header_title{font-size:20px !important;}}@media only screen and (max-width: 760px) {#vc_header_5a370f237b3de711 .header_subtitle{font-size:12px !important;}}</style>
+
+																							<div class="qfe_wrapper">
+																								<H2 class="qfy_title center mobilecenter">
+																									<div class="qfy_title_image_warpper" style="display:inline-block;position:relative;max-width:100%;width:100%;">
+																										<div class="qfy_title_inner" style="display:inline-block;position:relative;max-width:100%;">
+																											<div class="header_title" style="font-family:微软雅黑;font-size:20px;font-weight:bold;font-style:normal;color:#ffffff;padding:0 0 5px 0;display:block;padding:0 0 5px 0;vertical-align:bottom;">我 们 的 实 验
+																											</div>
+																											<div class="header_subtitle" style="font-family:arial;font-size:12px;font-weight:normal;font-style:normal;color:#ffffff;display:block;padding:0 0 40px 0;vertical-align:bottom;">G R O U P   B L A H
+																											</div>
+																						  			</div>
+			                                          		<style>#vc_header_5a370f237b3de711 .button_wrapper .button{transition: all ease .3s}#vc_header_5a370f237b3de711 .button_wrapper .button.active,#vc_header_5a370f237b3de711 .button_wrapper .button:hover{background-color:transparent !important; color:#e30083 !important; border-width:1px !important; border-style:solid !important;border-color:#e30083 !important; font-weight:400 !important; transition: all ease .3s}
+																						    		</style>
+																	              		</a>
+									                              		<span  style="clear:both;">
+									                              		</span>
+									                              		<span class="line-abs bottom hcenter" style="overflow:hidden;border-bottom-style:solid;width:30px;max-width:30px;border-bottom-width:1px;border-bottom-color:#999999;overflow:inherit;" >
+											                          		</span>
+																									</div>
+																									</a>
+																								</H2>
+																							</div>
+	                           								</div>
+	 																	  			<div id="vc_header_5a370f237b913462"  m-padding="0px 0px 0px 0px"  p-padding="0 0 0 0" css_animation_delay="0" qfyuuid="qfy_header_3w6ob" data-anitime='0.7'  class="qfy-element minheigh1px qfe_text_column qfe_content_element " style="position: relative;;;background-repeat: no-repeat;;margin-top:0;margin-bottom:0;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;">
+																							<style>#vc_header_5a370f237b913462 .line-abs::before{position: absolute; content: ''; width:25px; height:1px; background-color:#ffffff; left:calc(50% - 12.5px); top: 0px; margin: 0;}#vc_header_5a370f237b913462:hover.line-abs{ width:50px !important; transition: all ease .6s;}#vc_header_5a370f237b913462.line-abs{  transition: all ease .6s !important;}@media only screen and (min-width: 760px) {#vc_header_5a370f237b913462 .button_wrapper{opacity:0;top:auto !important;right:0 !important;right:-100px !important;transition: all ease .6s;}#vc_header_5a370f237b913462:hover .button_wrapper{opacity:1;top:auto !important;right:0 !important;transition: all ease .6s;}}@media only screen and (max-width: 760px) {#vc_header_5a370f237b913462 .header_title{font-size:20px !important;}}@media only screen and (max-width: 760px) {#vc_header_5a370f237b913462 .header_subtitle{font-size:12px !important;}}
+																							</style>
+																							<div class="qfe_wrapper">
+																								<H2 class="qfy_title center mobilecenter">
+																									<div class="qfy_title_image_warpper" style="display:inline-block;position:relative;max-width:100%;width:100%;">
+																										<span class="line-abs top hcenter" style="overflow:hidden;border-bottom-style:solid;width:30px;max-width:30px;border-bottom-width:1px;border-bottom-color:#999999;overflow:inherit;" >
+																										</span>
+
+																										<div class="qfy_title_inner" style="display:inline-block;position:relative;max-width:100%;">
+																											<div class="header_title" style="font-family:Oswald;font-size:84px;font-weight:bold;font-style:normal;color:#ffffff;padding:0 0 5px 0;display:block;padding:0 0 5px 0;vertical-align:bottom;">Idontknow Whatisit
+																											</div>
+																											<div class="header_subtitle" style="font-family:微软雅黑;font-size:18px;font-weight:bold;font-style:normal;color:#ffffff;display:block;padding:0 0 40px 0;vertical-align:bottom;">experiment hahaha
+																											</div>
+																										</div>
+
+
+																										<style>#vc_header_5a370f237b913462 .button_wrapper .button{transition: all ease .3s}#vc_header_5a370f237b913462 .button_wrapper .button.active,#vc_header_5a370f237b913462 .button_wrapper .button:hover{background-color:transparent !important; color:#e30083 !important; border-width:1px !important; border-style:solid !important;border-color:#e30083 !important; font-weight:400 !important; transition: all ease .3s}
+																										</style>
+
+																					  				</a>
+																						  			<span  style="clear:both;">
+																						  			</span>
+																					  			</div>
+																				    			</a>
+																			    			</H2>
+																				 			</div>
+																		 	 			</div>
+																		   		</div>
+																	   		</div>
+																   		</div>
+														      		<style class="column_class qfy_style_class">
+																			@media only screen and (min-width: 992px){.qfy-column-2-5a370f237afe3975074 > .column_inner {padding-left:0;padding-right:0;padding-top:0;padding-bottom:0;}.qfe_row .vc_span_class.qfy-column-2-5a370f237afe3975074 {};}
+																			@media only screen and (max-width: 992px){.qfy-column-2-5a370f237afe3975074 > .column_inner{margin:0 auto 0 !important;padding-left:0;padding-right:0;padding-top:0;padding-bottom:0;}.display_entire .qfe_row .vc_span_class.qfy-column-2-5a370f237afe3975074 {}.qfy-column-2-5a370f237afe3975074 > .column_inner> .background-overlay,.qfy-column-2-5a370f237afe3975074 > .column_inner> .background-media{width:100% !important;left:0 !important;right:auto !important;}}
+																		</style>
+																	</div>
+    									 	          </div>
+										       		</section>
+												 	  </div>
+											 		</div>
+										 		</div>
+										 		<style class="column_class qfy_style_class">
+												@media only screen and (min-width: 992px){.qfy-column-1-5a370f237aa2f203170 > .column_inner {padding-left:0;padding-right:0;padding-top:0;padding-bottom:0;}.qfe_row .vc_span_class.qfy-column-1-5a370f237aa2f203170 {};}
+												@media only screen and (max-width: 992px){.qfy-column-1-5a370f237aa2f203170 > .column_inner{margin:0 auto 0 !important;padding-left:0;padding-right:0;padding-top:;padding-bottom:;}.display_entire .qfe_row .vc_span_class.qfy-column-1-5a370f237aa2f203170 {}.qfy-column-1-5a370f237aa2f203170 > .column_inner> .background-overlay,.qfy-column-1-5a370f237aa2f203170 > .column_inner> .background-media{width:100% !important;left:0 !important;right:auto !important;}}
+												</style>
+									 		</div>
+    				 		  	</div>
+							      </section>
+
+   								  <section  data-fixheight="" class="qfy-row-3-5a370f237bdda316251 section no section-text-no-shadow section-inner-no-shadow section-normal"  id="bit_3b52g"  style='margin-bottom:0;border-radius:0px;color:#666666;' >
+    						  		<style class="row_class qfy_style_class">
+											@media only screen and (min-width: 992px){section.section.qfy-row-3-5a370f237bdda316251{padding-left:0;padding-right:0;padding-top:40px;padding-bottom:0;margin-top:0;}section.section.qfy-row-3-5a370f237bdda316251 > .container{max-width:1024px;margin:0 auto;}}
+											@media only screen and (max-width: 992px){.bit-html section.section.qfy-row-3-5a370f237bdda316251{padding-left:15px;padding-right:15px;padding-top:40px;padding-bottom:0;margin-top:0;}}
+											</style>
+    	    						<div class="section-background-overlay background-overlay grid-overlay-0 " style="background-color: ;">
+											</div>
+    									<div class="container">
+        								<div class="row qfe_row">
+            							<div data-animaleinbegin="90%" data-animalename="qfyfadeInUp"  data-duration="" data-delay=""  class=" qfy-column-3-5a370f237c0b0553233 qfy-column-inner  vc_span12  text-default small-screen-default fullrow"  data-dw="1/1" data-fixheight="" >
+														<div style=";position:relative;;" class="column_inner " >
+															<div class=" background-overlay grid-overlay-" style="background-color:transparent;width:100%;">
+															</div>
+															<div class="column_containter" style="z-index:3;position:relative;" >
+																<div id="vc_header_5a370f237c45b239"  m-padding="0px 0px 0px 0px"  p-padding="0 0 0 0" css_animation_delay="0" qfyuuid="qfy_header_d7w9v" data-anitime='0.7'  class="qfy-element minheigh1px qfe_text_column qfe_content_element " style="position: relative;;;background-repeat: no-repeat;;margin-top:0;margin-bottom:0;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;">
+																	<style>#vc_header_5a370f237c45b239:hover .header_title{color:#4bb344 !important; transition: all ease .6s !important;}#vc_header_5a370f237c45b239 .header_title{transition: all ease .6s;}#vc_header_5a370f237c45b239 .qfy_title_inner, #vc_header_5a370f237c45b239 .qfy_title_image_inner{vertical-align:middle !important;}@media only screen and (max-width: 760px) {#vc_header_5a370f237c45b239 .header_title{font-size:40px !important;}}@media only screen and (max-width: 760px) {#vc_header_5a370f237c45b239 .header_subtitle{font-size:12px !important;}}
+																	</style>
+																	<div class="qfe_wrapper">
+																		<div class="qfy_title center mobileleft">
+																			<div class="qfy_title_image_warpper" style="display:inline-block;position:relative;max-width:100%;">
+																				<div class="qfy_title_inner" style="display:inline-block;position:relative;max-width:100%;">
+																					<div class="header_title" style="font-family:Oswald;font-size:50px;font-weight:bold;font-style:normal;color:#4bb344;vertical-align:bottom;">实验介绍
+																					</div>
+																					<div class="header_subtitle" style="font-size:12px;font-weight:normal;font-style:normal;color:#bababa;display:none;padding:2px;vertical-align:bottom;">
+																					</div>
+																				</div>
+																				<a  href="http://w-12776-28182-90257.13919614996.sites.cnfree01.qifeiye.com/?page_id=9870">
+																				</a>
+																				<span  style="clear:both;">
+																				</span>
+																			</div>
+																			</a>
+																		</div>
+																	</div>
+																</div>
+																<div id="vc_header_5a370f237c912996"  m-padding="0px 0px 0px 0px"  p-padding="0 0 0 0" css_animation_delay="0" qfyuuid="qfy_header_mfv5h" data-anitime='0.7'  class="qfy-element minheigh1px qfe_text_column qfe_content_element " style="position: relative;;;background-repeat: no-repeat;;margin-top:0;margin-bottom:0;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;">
+																	<style>#vc_header_5a370f237c912996 .qfy_title_inner, #vc_header_5a370f237c912996 .qfy_title_image_inner{vertical-align:middle !important;}@media only screen and (max-width: 760px) {#vc_header_5a370f237c912996 .header_title{font-size:14px !important;}}@media only screen and (max-width: 760px) {#vc_header_5a370f237c912996 .header_subtitle{font-size:12px !important;}}
+																	</style>
+																	<div class="qfe_wrapper">
+																		<div class="qfy_title center mobileleft">
+
+																			<div class="qfy_title_image_warpper" style="display:inline-block;position:relative;max-width:100%;">
+																		<span class="line-abs " style="overflow:hidden;border-bottom-style:solid;width:58px;max-width:58px;border-bottom-width:1px;border-bottom-color:#ededed;margin-right:20px;" >
+																		</span>
+																		<div class="qfy_title_inner" style="display:inline-block;position:relative;max-width:100%;">
+																			<div class="header_title" style="font-family:微软雅黑;font-size:22px;font-weight:normal;font-style:normal;color:#333333;vertical-align:bottom;">要不要出来新的页面
+																			</div>
+																			<div class="header_subtitle" style="font-size:12px;font-weight:normal;font-style:normal;color:#bababa;display:none;padding:2px;vertical-align:bottom;">
+																			</div>
+																		</div>
+
+
+																	  </a>
+																		<span  style="clear:both;">
+																		</span>
+																	</div>
+																	</a>
+																</div>
+															</div>
+														</div>
+													</div>
+												</div>
+											</div>
+											<style class="column_class qfy_style_class">
+											@media only screen and (min-width: 992px){.qfy-column-3-5a370f237c0b0553233 > .column_inner {padding-left:0;padding-right:0;padding-top:32px;padding-bottom:0;}.qfe_row .vc_span_class.qfy-column-3-5a370f237c0b0553233 {};}
+											@media only screen and (max-width: 992px){.qfy-column-3-5a370f237c0b0553233 > .column_inner{margin:0 auto 0 !important;padding-left:0;padding-right:0;padding-top:32px;padding-bottom:;}.display_entire .qfe_row .vc_span_class.qfy-column-3-5a370f237c0b0553233 {}.qfy-column-3-5a370f237c0b0553233 > .column_inner> .background-overlay,.qfy-column-3-5a370f237c0b0553233 > .column_inner> .background-media{width:100% !important;left:0 !important;right:auto !important;}}
+											</style>
+										</div>
+    									</div>
+
+										</section>
+										<section  data-fixheight="" class="qfy-row-4-5a370f237cd10424627 section     no  section-text-no-shadow section-inner-no-shadow section-normal"  id="bit_peka3"  style='margin-bottom:0;border-radius:0px;color:#666666;' >
+    								<style class="row_class qfy_style_class">
+										@media only screen and (min-width: 992px){section.section.qfy-row-4-5a370f237cd10424627{padding-left:0;padding-right:0;padding-top:20px;padding-bottom:0;margin-top:24px;}section.section.qfy-row-4-5a370f237cd10424627 > .container{max-width:1310px;margin:0 auto;}}
+										@media only screen and (max-width: 992px){.bit-html section.section.qfy-row-4-5a370f237cd10424627{padding-left:15px;padding-right:15px;padding-top:20px;padding-bottom:0;margin-top:0;}}
+										</style>
+    	    					<div class="section-background-overlay background-overlay grid-overlay-0 " style="background-color: ;"></div>
+    									<div class="container">
+        								<div class="row qfe_row">
+			            				<div  data-animaleinbegin="bottom-in-view" data-animalename="qfyfadeInUp"  data-duration="" data-delay=""  class=" qfy-column-4-5a370f237cfe8248553 qfy-column-inner  vc_span12  text-default small-screen-default fullrow"  data-dw="1/1" data-fixheight="" >
+														<div style=";position:relative;;" class="column_inner " >
+															<div class=" background-overlay grid-overlay-" style="background-color:transparent;width:100%;">
+															</div>
+															<div class="column_containter" style="z-index:3;position:relative;" >
+																<div id=""  data-loading="" data-loading-w=""  data-open="0" data-post="product" data-cate=""   m-padding="0px 0px 0px 0px"  p-padding="0 0 0 0" css_animation_delay="0" qfyuuid="qfy_posts_grid_mqigv"   class="qfy-element  UUID-POSTS-5a370f237fce6361387 qfe_teaser_grid qfe_content_element  qfe_grid columns_count_3 columns_count_3 qfe_teaser_grid_post qfe_teaser_grid_page qfe_teaser_grid_products qfe_teaser_grid_product  " style="margin-top:0;margin-bottom:0;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;">
+																	<style>.UUID-POSTS-5a370f237fce6361387 li:hover .post-title > i.glyphicon{color:#cccccc !important;}.UUID-POSTS-5a370f237fce6361387 li:hover .post-title > a,.UUID-POSTS-5a370f237fce6361387 li:hover .post-title >div> a,.UUID-POSTS-5a370f237fce6361387 li:hover .post-title > span{color:#4bb344 !important;}.UUID-POSTS-5a370f237fce6361387 li:hover .post-title > span.toEditor{color:#fff !important;}.UUID-POSTS-5a370f237fce6361387 li:hover .subtitle{color:#cccccc !important;}.UUID-POSTS-5a370f237fce6361387 li .post_excerpt{width:100% !important;text-align:left}.UUID-POSTS-5a370f237fce6361387 li .vc_read_more{display:inline-block;float:none;}.UUID-POSTS-5a370f237fce6361387 li .vc_read_more_wrapper{width:100% !important;text-align:left}.UUID-POSTS-5a370f237fce6361387 li:hover .post-title::before {width: 100%; transition: all .6s ease 0s;}.UUID-POSTS-5a370f237fce6361387 li.post-title::before {position: absolute; content: ''; width: 0; height: 1px; background-color: #afafaf; left: 0px; bottom: -1px; margin: 0; transition: all .6s ease 0s; }.UUID-POSTS-5a370f237fce6361387 li:hover .itembody{border-color:#a3a3a3 !important;}.UUID-POSTS-5a370f237fce6361387 li .vc_read_more{ border-width:1px;border-style:solid;border-color:#d8d8d8;background-color:transparent;}.UUID-POSTS-5a370f237fce6361387 li:hover .vc_read_more{border-color:#4bb344;background-color:transparent;}.UUID-POSTS-5a370f237fce6361387 li:hover .vc_read_more{color:#4bb344 !important;}.UUID-POSTS-5a370f237fce6361387 li .itembody{padding:50px 40px 40px 40px;}@media only screen and (max-width: 992px) {.UUID-POSTS-5a370f237fce6361387 .vc_span_mobile{float:left !important;max-width: 99.8% !important;}.UUID-POSTS-5a370f237fce6361387 .post_blog  .vc_span_mobile .blog-media{width:auto !important;}.thumbnail_text-5a370f237fc9f465 .head{font-size: 16px !important;}.thumbnail_text-5a370f237fc9f465 .content{font-size: 16px !important;}}.UUID-POSTS-5a370f237fce6361387 .qfy_item_post .price_warp .amount,.UUID-POSTS-5a370f237fce6361387 .qfy_item_post .price_warp del{color:#cccccc;font-size:12px;}.UUID-POSTS-5a370f237fce6361387 .qfy_item_post .price_warp ins .amount{color:#cccccc;font-size:12px;}.UUID-POSTS-5a370f237fce6361387 .qfy_item_post .price_warp {padding-top:0px;padding-bottom:0px;padding-left:0px;padding-right:0px;}.UUID-POSTS-5a370f237fce6361387 .qfy_item_post:hover .price_warp .amount,.UUID-POSTS-5a370f237fce6361387 .qfy_item_post:hover .price_warp del{color:#cccccc !important;}.UUID-POSTS-5a370f237fce6361387 .qfy_item_post:hover .price_warp ins .amount{color:#cccccc !important;}.UUID-POSTS-5a370f237fce6361387 li .post-title{border-width:0 0 1px 0;border-style:solid;border-color:#ededed;}.UUID-POSTS-5a370f237fce6361387 li:hover *{transition: all .6s ease;}.UUID-POSTS-5a370f237fce6361387 li *{transition: all .6s ease;}</style>	<style class='style_UUID-POSTS-5a370f237fce6361387'>.UUID-POSTS-5a370f237fce6361387 .qfe_heading{padding:0 0 0 10px;height:28px;line-height:28px;background-color:transparent;margin:0px;font-family:;font-size:px;font-weight:normal;font-style:normal;text-decoration:none;color:#ffffff;border-top:1px solid transparent;border-left:1px solid transparent;border-right:1px solid transparent;border-bottom:0px solid transparent;background-image:none;-webkit-border-top-left-radius: 4px;-webkit-border-top-right-radius: 4px;-moz-border-radius-topleft: 4px;-moz-border-radius-topright: 4px;border-top-left-radius: 4px;border-top-right-radius: 4px;} .UUID-POSTS-5a370f237fce6361387 .qfe_heading{border-top:0;border-left:0;border-right:0;} .UUID-POSTS-5a370f237fce6361387  .teaser_grid_container,.UUID-POSTS-5a370f237fce6361387 .vc-carousel{border-bottom:0;border-top:0;border-left:0;border-right:0;padding:10px 10px 4px 10px;}.UUID-POSTS-5a370f237fce6361387{-webkit-box-shadow:none;box-shadow:none;}.post-title .glyphicon{  left:0px;  }  #UUID-POSTS-5a370f237fce6361387 .bitWidgetFrame{background-color:transparent;background-image:none;-webkit-border-bottom-left-radius: 4px;border-bottom-left-radius: 4px;-webkit-border-bottom-right-radius: 4px;border-bottom-right-radius: 4px;}.UUID-POSTS-5a370f237fce6361387  .teaser_grid_container,.UUID-POSTS-5a370f237fce6361387 .vc-carousel{padding-left:0px;padding-right:0px;}body .UUID-POSTS-5a370f237fce6361387  .teaser_grid_container,.UUID-POSTS-5a370f237fce6361387 .vc-carousel{padding-top:0px !important;padding-bottom:0px !important;}</style>    <div class="qfe_wrapper">
+                									<div class="teaser_grid_container noanimale" style=';clear:both;' data-type="product"  data-cate=" " data-pcate="">
+                  								<ul style="min-height:60px;" class="qfe_thumbnails qfe_thumbnails-fluid vc_clearfix post_grid " data-layout-mode="fitRows" >
+                      						<li data-postid="11524" data-animaleinbegin="90%"  data-animalename="qfyfadeInUp" data-delay="0.1" data-duration=""   class="qfyanimate isotope-item qfy_item_post vc_span4 vc_span_mobile vc_span_mobile12 " style='max-width:33.27%;margin-bottom:10px;padding-bottom:10px;border-bottom:1px solid transparent;padding:15px;' >
+
+																		<div class='itembody' style="border-top:1px solid rgba(221,221,221,1);border-bottom:1px solid rgba(221,221,221,1);border-left:1px solid rgba(221,221,221,1);border-right:1px solid rgba(221,221,221,1);background-color:transparent;">
+
+
+
+																			<div class="post-title"  style='padding-bottom:20px;font-weight:normal;color:#555555;line-height:16px; vertical-align: top; text-align:left;width:100%; '>
+																				<a data-title="true" style="color:#555555;font-size:16px;font-family:微软雅黑;line-height:22px"
+																				href="http://w-12776-28182-90257.13919614996.sites.cnfree01.qifeiye.com/?p=11524" class="bitImageAhover   link_title" title="实验简介">实验简介</a>
+																			</div>
+
+
+																			<div  class="entry-content post_excerpt	" style="color:#adadad;font-size:13px;font-family:微软雅黑;line-height:24px;padding-top:15px;padding-bottom:10px;">
+																				<p>我是实验简介</p><br />
+																			</div>
+
+
+
+																			<span style='clear:both'></span>
+																			<div class="vc_read_more_wrapper">
+																				<a style=" color:#cccccc;font-size:13px;font-family:Raleway;padding-top:5px;padding-bottom:5px;padding-left:8px;padding-right:8px;"
+																				href="http://w-12776-28182-90257.13919614996.sites.cnfree01.qifeiye.com/?p=11524" class="vc_read_more " title="实验简介" >→</a>
+																			</div>
+
+
+
+																		</div>
+				                					</li>
+																	<div class="wf-mobile-visible" style="clear:both">
+																	</div>
+												 					<li data-postid="11522" data-animaleinbegin="90%"  data-animalename="qfyfadeInUp" data-delay="0.2" data-duration=""   class="qfyanimate isotope-item qfy_item_post vc_span4 vc_span_mobile vc_span_mobile12 " style='max-width:33.27%;margin-bottom:10px;padding-bottom:10px;border-bottom:1px solid transparent;padding:15px;' >
+
+																		<div class='itembody' style="border-top:1px solid rgba(221,221,221,1);border-bottom:1px solid rgba(221,221,221,1);border-left:1px solid rgba(221,221,221,1);border-right:1px solid rgba(221,221,221,1);background-color:transparent;">
+
+																			<div class="post-title"  style='padding-bottom:20px;font-weight:normal;color:#555555;line-height:16px; vertical-align: top; text-align:left;width:100%; '>
+																				<a data-title="true" style="color:#555555;font-size:16px;font-family:微软雅黑;line-height:22px"
+																				href="http://w-12776-28182-90257.13919614996.sites.cnfree01.qifeiye.com/?p=11522" class="bitImageAhover   link_title" title="实验设计">实验设计</a>
+																			</div>
+
+																			<div  class="entry-content post_excerpt	" style="color:#adadad;font-size:13px;font-family:微软雅黑;line-height:24px;padding-top:15px;padding-bottom:10px;">
+																				<p>我是实验设计（目的、仪器与材料、方法）</p><br />
+																			</div>
+
+
+																			<span style='clear:both'>
+																			</span>
+																			<div class="vc_read_more_wrapper">
+																				<a style=" color:#cccccc;font-size:13px;font-family:Raleway;padding-top:5px;padding-bottom:5px;padding-left:8px;padding-right:8px;"
+																				href="http://w-12776-28182-90257.13919614996.sites.cnfree01.qifeiye.com/?p=11522" class="vc_read_more " title="实验设计" >→</a>
+																			</div>
+																		</div>
+
+				                					</li>
+																	<div class="wf-mobile-visible" style="clear:both">
+																	</div>
+																	<li data-postid="11520" data-animaleinbegin="90%"  data-animalename="qfyfadeInUp" data-delay="0.3" data-duration=""   class="qfyanimate isotope-item qfy_item_post vc_span4 vc_span_mobile vc_span_mobile12 " style='max-width:33.27%;margin-bottom:10px;padding-bottom:10px;border-bottom:1px solid transparent;padding:15px;' >
+
+																		<div class='itembody' style="border-top:1px solid rgba(221,221,221,1);border-bottom:1px solid rgba(221,221,221,1);border-left:1px solid rgba(221,221,221,1);border-right:1px solid rgba(221,221,221,1);background-color:transparent;">
+
+																			<div class="post-title"  style='padding-bottom:20px;font-weight:normal;color:#555555;line-height:16px; vertical-align: top; text-align:left;width:100%; '>
+																					<a data-title="true" style="color:#555555;font-size:16px;font-family:微软雅黑;line-height:22px"
+																					href="http://w-12776-28182-90257.13919614996.sites.cnfree01.qifeiye.com/?p=11520" class="bitImageAhover   link_title" title="结果与讨论">结果与讨论
+																					</a>
+																			</div>
+
+
+																			<div  class="entry-content post_excerpt	" style="color:#adadad;font-size:13px;font-family:微软雅黑;line-height:24px;padding-top:15px;padding-bottom:10px;">
+																				<p>我是结果与讨论</p><br />
+																			</div>
+
+																			<span style='clear:both'></span>
+																			<div class="vc_read_more_wrapper">
+																				<a style=" color:#cccccc;font-size:13px;font-family:Raleway;padding-top:5px;padding-bottom:5px;padding-left:8px;padding-right:8px;"
+																				href="http://w-12776-28182-90257.13919614996.sites.cnfree01.qifeiye.com/?p=11520" class="vc_read_more " title="结果与讨论" >→</a>
+																			</div>
+
+																		</div>
+
+						         							</li>
+																	<div class="wf-mobile-hidden" style="clear:both">
+																	</div>
+																	<div class="wf-mobile-visible" style="clear:both">
+																	</div>
+            											</ul>
+        													</div>
+    														</div>
+																<div class="clear">
+																</div>
+
+
+
+															</div>
+														</div>
+													</div>
+												</div>
+												<style class="column_class qfy_style_class">@media only screen and (min-width: 992px){.qfy-column-4-5a370f237cfe8248553 > .column_inner {padding-left:0;padding-right:0;padding-top:0;padding-bottom:0;}.qfe_row .vc_span_class.qfy-column-4-5a370f237cfe8248553 {};}@media only screen and (max-width: 992px){.qfy-column-4-5a370f237cfe8248553 > .column_inner{margin:0 auto 0 !important;padding-left:0;padding-right:0;padding-top:;padding-bottom:;}.display_entire .qfe_row .vc_span_class.qfy-column-4-5a370f237cfe8248553 {}.qfy-column-4-5a370f237cfe8248553 > .column_inner> .background-overlay,.qfy-column-4-5a370f237cfe8248553 > .column_inner> .background-media{width:100% !important;left:0 !important;right:auto !important;}}
+												</style>
+											</div>
+    								</div>
+
+										</section>
+										<section  data-fixheight="" class="qfy-row-5-5a370f238086a961919 section     no  section-text-no-shadow section-inner-no-shadow section-normal"  id="bit_pibpo"  style='margin-bottom:0;border-radius:0px;color:#666666;' >
+    							<style class="row_class qfy_style_class">@media only screen and (min-width: 992px){section.section.qfy-row-5-5a370f238086a961919{padding-left:0;padding-right:0;padding-top:20px;padding-bottom:0;margin-top:0;}section.section.qfy-row-5-5a370f238086a961919 > .container{max-width:1280px;margin:0 auto;}} @media only screen and (max-width: 992px){.bit-html section.section.qfy-row-5-5a370f238086a961919{padding-left:15px;padding-right:15px;padding-top:20px;padding-bottom:;margin-top:0;}}
+									</style>
+    	    				<div class="section-background-overlay background-overlay grid-overlay-0 " style="background-color: ;"></div>
+
+    								<div class="container">
+        							<div class="row qfe_row">
+            						<div data-animaleinbegin="90%" data-animalename="qfyfadeInUp"  data-duration="" data-delay=""  class=" qfy-column-5-5a370f2380b28878847 qfy-column-inner  vc_span12  text-default small-screen-undefined fullrow"  data-dw="1/1" data-fixheight="" >
+													<div style=";position:relative;;" class="column_inner " >
+														<div class=" background-overlay grid-overlay-" style="background-color:transparent;width:100%;">
+														</div>
+														<div class="column_containter" style="z-index:3;position:relative;" >
+															<div m-padding="0px 0px 0px 0px" p-padding="0 0 0 0" css_animation_delay="0" qfyuuid="qfy_column_text_t26dy" data-anitime='0.7'  class="qfy-element qfy-text qfy-text-85150 qfe_text_column qfe_content_element  mobile_fontsize" style="position: relative;;;line-height:1.5em;;background-position:left top;background-repeat: no-repeat;;margin-top:0;margin-bottom:0;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;border-radius:0px;">
+																<div class="qfe_wrapper">
+																	<div style="position: relative;">
+																		<div>
+																			<span style="color:#666666;">参考资料
+																			</span>
+																			<br/>
+																			<br/>
+																			[1]</div>
+
+																			<div>[2]</div>
+
+																			<div>[3]<br />
+																				&nbsp;</div>
+																		</div>
+
+																	</div>
+																</div>
+															</div>
+														</div>
+													</div>
+													<style class="column_class qfy_style_class">@media only screen and (min-width: 992px){.qfy-column-5-5a370f2380b28878847 > .column_inner {padding-left:0;padding-right:0;padding-top:0;padding-bottom:0;}.qfe_row .vc_span_class.qfy-column-5-5a370f2380b28878847 {};}@media only screen and (max-width: 992px){.qfy-column-5-5a370f2380b28878847 > .column_inner{margin:0 auto 0 !important;padding-left:0;padding-right:0;padding-top:;padding-bottom:;}.display_entire .qfe_row .vc_span_class.qfy-column-5-5a370f2380b28878847 {}.qfy-column-5-5a370f2380b28878847 > .column_inner> .background-overlay,.qfy-column-5-5a370f2380b28878847 > .column_inner> .background-media{width:100% !important;left:0 !important;right:auto !important;}}</style>        </div>
+    										</div>
+
+											</section>
+											<section  data-fixheight="" class="qfy-row-6-5a370f238104b645422 section     no  section-text-no-shadow section-inner-no-shadow section-normal"  id="bit_pttcd"  style='margin-bottom:0;border-radius:0px;color:#666666;' >
+    										<style class="row_class qfy_style_class">
+												@media only screen and (min-width: 992px){section.section.qfy-row-6-5a370f238104b645422{padding-left:0;padding-right:0;padding-top:40px;padding-bottom:0;margin-top:0;}section.section.qfy-row-6-5a370f238104b645422 > .container{max-width:1024px;margin:0 auto;}}
+ 												@media only screen and (max-width: 992px){.bit-html section.section.qfy-row-6-5a370f238104b645422{padding-left:15px;padding-right:15px;padding-top:40px;padding-bottom:0;margin-top:0;}}
+												</style>
+    	    							<div class="section-background-overlay background-overlay grid-overlay-0 " style="background-color: ;">
+												</div>
+
+    										<div class="container">
+        									<div class="row qfe_row">
+            								<div   data-animaleinbegin="90%" data-animalename="qfyfadeInUp"  data-duration="" data-delay=""  class=" qfy-column-6-5a370f2381318787417 qfy-column-inner  vc_span12  text-default small-screen-default fullrow"  data-dw="1/1" data-fixheight="" >
+															<div style=";position:relative;;" class="column_inner " >
+																<div class=" background-overlay grid-overlay-" style="background-color:transparent;width:100%;">
+																</div>
+																<div class="column_containter" style="z-index:3;position:relative;" >
+																	<div id="vc_header_5a370f2381650452"  m-padding="0px 0px 0px 0px"  p-padding="0 0 0 0" css_animation_delay="0" qfyuuid="qfy_header_y3akl" data-anitime='0.7'  class="qfy-element minheigh1px qfe_text_column qfe_content_element " style="position: relative;;;background-repeat: no-repeat;;margin-top:0;margin-bottom:0;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;">
+																		<style>#vc_header_5a370f2381650452:hover .header_title{color:#4bb344 !important; transition: all ease .6s !important;}#vc_header_5a370f2381650452 .header_title{transition: all ease .6s;}#vc_header_5a370f2381650452 .qfy_title_inner, #vc_header_5a370f2381650452 .qfy_title_image_inner{vertical-align:middle !important;}
+																		@media only screen and (max-width: 760px) {#vc_header_5a370f2381650452 .header_title{font-size:40px !important;}}
+																		@media only screen and (max-width: 760px) {#vc_header_5a370f2381650452 .header_subtitle{font-size:12px !important;}}
+																	</style>
+																	<div class="qfe_wrapper">
+																		<div class="qfy_title center mobileleft">
+
+																			<div class="qfy_title_image_warpper" style="display:inline-block;position:relative;max-width:100%;">
+																				<div class="qfy_title_inner" style="display:inline-block;position:relative;max-width:100%;">
+																					<div class="header_title" style="font-family:Oswald;font-size:50px;font-weight:bold;font-style:normal;color:#4bb344;vertical-align:bottom;">参与实验
+																					</div>
+																					<div class="header_subtitle" style="font-size:12px;font-weight:normal;font-style:normal;color:#bababa;display:none;padding:2px;vertical-align:bottom;">
+																					</div>
+																				</div>
+																				<a  href="http://w-12776-28182-90257.13919614996.sites.cnfree01.qifeiye.com/?page_id=8127">
+																					<div class="button_wrapper" style="display:none;">
+																						<div class="button " style="display:inline-block;max-width:100%;text-align:center; font-size:14px; color:#333; padding:5px;">+ 查看更多
+																						</div>
+																					</div>
+																				</a>
+																				<span  style="clear:both;">
+																				</span>
+																			</div>
+																	  	</a>
+																  	</div>
+																	</div>
+																</div>
+																<div id="vc_header_5a370f2381a9e860"  m-padding="0px 0px 0px 0px"  p-padding="0 0 0 0" css_animation_delay="0" qfyuuid="qfy_header_growa" data-anitime='0.7'  class="qfy-element minheigh1px qfe_text_column qfe_content_element " style="position: relative;;;background-repeat: no-repeat;;margin-top:0;margin-bottom:0;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;"><style>#vc_header_5a370f2381a9e860 .qfy_title_inner, #vc_header_5a370f2381a9e860 .qfy_title_image_inner{vertical-align:middle !important;}
+																@media only screen and (max-width: 760px) {#vc_header_5a370f2381a9e860 .header_title{font-size:14px !important;}}
+																@media only screen and (max-width: 760px) {#vc_header_5a370f2381a9e860 .header_subtitle{font-size:12px !important;}}
+															</style>
+															<div class="qfe_wrapper">
+																<div class="qfy_title center mobileleft">
+																	<div class="qfy_title_image_warpper" style="display:inline-block;position:relative;max-width:100%;">
+																	<span class="line-abs " style="overflow:hidden;border-bottom-style:solid;width:58px;max-width:58px;border-bottom-width:1px;border-bottom-color:#ededed;margin-right:20px;" >
+																	</span>
+																	<div class="qfy_title_inner" style="display:inline-block;position:relative;max-width:100%;">
+																		<div class="header_title" style="font-family:微软雅黑;font-size:22px;font-weight:normal;font-style:normal;color:#333333;vertical-align:bottom;">扫描二维码或点击进入
+																		</div>
+																		<div class="header_subtitle" style="font-size:12px;font-weight:normal;font-style:normal;color:#bababa;display:none;padding:2px;vertical-align:bottom;">
+																		</div>
+																	</div>
+																	<span class="line-abs right" style="overflow:hidden;border-bottom-style:solid;width:58px;max-width:58px;border-bottom-width:1px;border-bottom-color:#ededed;margin-left:20px;"  >
+																	</span>
+
+																	<span  style="clear:both;">
+																	</span>
+																</div>
+															 </a>
+												  		</div>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+										<style class="column_class qfy_style_class">
+										@media only screen and (min-width: 992px){.qfy-column-6-5a370f2381318787417 > .column_inner {padding-left:0;padding-right:0;padding-top:32px;padding-bottom:0;}.qfe_row .vc_span_class.qfy-column-6-5a370f2381318787417 {};}
+										@media only screen and (max-width: 992px){.qfy-column-6-5a370f2381318787417 > .column_inner{margin:0 auto 0 !important;padding-left:0;padding-right:0;padding-top:32px;padding-bottom:;}.display_entire .qfe_row .vc_span_class.qfy-column-6-5a370f2381318787417 {}.qfy-column-6-5a370f2381318787417 > .column_inner> .background-overlay,.qfy-column-6-5a370f2381318787417 > .column_inner> .background-media{width:100% !important;left:0 !important;right:auto !important;}}
+									  </style>
+								  </div>
+    						</div>
+
+							</section>
+							<section  data-fixheight="" class="qfy-row-7-5a370f2381e5b883919 section     no  section-text-no-shadow section-inner-no-shadow section-normal"  id="bit_xwkhs"  style='margin-bottom:0;border-radius:0px;color:#666666;' >
+    						<style class="row_class qfy_style_class">
+								@media only screen and (min-width: 992px){section.section.qfy-row-7-5a370f2381e5b883919{padding-left:0;padding-right:0;padding-top:60px;padding-bottom:100px;margin-top:0;}section.section.qfy-row-7-5a370f2381e5b883919 > .container{max-width:1280px;margin:0 auto;}}
+ 								@media only screen and (max-width: 992px){.bit-html section.section.qfy-row-7-5a370f2381e5b883919{padding-left:15px;padding-right:15px;padding-top:20px;padding-bottom:100px;margin-top:0;}}
+								</style>
+    	    			<div class="section-background-overlay background-overlay grid-overlay-0 " style="background-color: ;">
+								</div>
+
+    						<div class="container">
+        					<div class="row qfe_row">
+            				<div   data-animaleinbegin="90%" data-animalename="qfyfadeInUp"  data-duration="" data-delay=""  class=" qfy-column-7-5a370f23821ea91485 qfy-column-inner  vc_span12  text-Default small-screen-undefined fullrow"  data-dw="1/1" data-fixheight="" >
+											<div style="margin-top:0;margin-bottom:0;margin-left:0;margin-right:0;border-radius:0px;;position:relative;;" class="column_inner " >
+												<div class=" background-overlay grid-overlay-0" style="background-color:transparent;width:100%;">
+												</div>
+												<div class="column_containter" style="z-index:3;position:relative;" >
+													<div id=""   data-loading="" data-loading-w=""  data-open="" data-post="products" data-cate=""   m-padding="0px 0px 0px 0px"  p-padding="0 0 0 0" css_animation_delay="0" qfyuuid="qfy_posts_grid_4tibi"   class="qfy-element  UUID-POSTS-5a370f2384c73437218 qfe_teaser_grid qfe_content_element  qfe_grid columns_count_4 columns_count_4 qfe_teaser_grid_products  " style="margin-top:0;margin-bottom:0;padding-top:0;padding-bottom:0;padding-right:0;padding-left:0;border-radius:0px;">
+														<style>.UUID-POSTS-5a370f2384c73437218 li:hover .post-title > i.glyphicon{color:#cccccc !important;}.UUID-POSTS-5a370f2384c73437218 li:hover .subtitle{color:#cccccc !important;}.UUID-POSTS-5a370f2384c73437218 li .post_excerpt{width:100% !important;text-align:center}.UUID-POSTS-5a370f2384c73437218 li:hover .itembody{border-color:#ffffff !important;}.UUID-POSTS-5a370f2384c73437218 li .itembody::after{border: 1px solid #dddddd; bottom: 0; content: '';left: 0;position: absolute; right: 0; top: 0; opacity: 0; transition: all 0.6s ease 0s; pointer-events: none;}.UUID-POSTS-5a370f2384c73437218 li:hover .itembody::after{bottom: 30px; left: 30px; right: 30px; top: 60px; opacity: 100;transition: all 0.6s ease 0s;}.UUID-POSTS-5a370f2384c73437218 li:hover .vc_read_more{}.UUID-POSTS-5a370f2384c73437218 li .itembody{padding:20px 20px 20px 20px;}
+															@media only screen and (max-width: 992px) {.UUID-POSTS-5a370f2384c73437218 .vc_span_mobile{float:left !important;max-width: 99.8% !important;}.UUID-POSTS-5a370f2384c73437218 .post_blog  .vc_span_mobile .blog-media{width:auto !important;}.thumbnail_text-5a370f2384c2e182 .head{font-size: 13px !important;}.thumbnail_text-5a370f2384c2e182 .content{font-size: 11px !important;}}.UUID-POSTS-5a370f2384c73437218 .qfy_item_post .price_warp .amount,.UUID-POSTS-5a370f2384c73437218 .qfy_item_post .price_warp del{color:#cccccc;font-size:12px;}.UUID-POSTS-5a370f2384c73437218 .qfy_item_post .price_warp ins .amount{color:#cccccc;font-size:12px;}.UUID-POSTS-5a370f2384c73437218 .qfy_item_post .price_warp {padding-top:0px;padding-bottom:0px;padding-left:0px;padding-right:0px;}.UUID-POSTS-5a370f2384c73437218 .qfy_item_post:hover .price_warp .amount,.UUID-POSTS-5a370f2384c73437218 .qfy_item_post:hover .price_warp del{color:#cccccc !important;}.UUID-POSTS-5a370f2384c73437218 .qfy_item_post:hover .price_warp ins .amount{color:#cccccc !important;}.UUID-POSTS-5a370f2384c73437218 li:hover *{transition: all .6s ease;}.UUID-POSTS-5a370f2384c73437218 li *{transition: all .6s ease;}</style>	<style class='style_UUID-POSTS-5a370f2384c73437218'>.UUID-POSTS-5a370f2384c73437218 .qfe_heading{padding:0 0 0 10px;height:28px;line-height:28px;background-color:transparent;margin:0px;font-family:;font-size:px;font-weight:normal;font-style:normal;text-decoration:none;color:#ffffff;border-top:1px solid transparent;border-left:1px solid transparent;border-right:1px solid transparent;border-bottom:0px solid transparent;background-image:none;-webkit-border-top-left-radius: 4px;-webkit-border-top-right-radius: 4px;-moz-border-radius-topleft: 4px;-moz-border-radius-topright: 4px;border-top-left-radius: 4px;border-top-right-radius: 4px;} .UUID-POSTS-5a370f2384c73437218 .qfe_heading{border-top:0;border-left:0;border-right:0;} .UUID-POSTS-5a370f2384c73437218  .teaser_grid_container,.UUID-POSTS-5a370f2384c73437218 .vc-carousel{border-bottom:0;border-top:0;border-left:0;border-right:0;padding:10px 10px 4px 10px;}.UUID-POSTS-5a370f2384c73437218{-webkit-box-shadow:none;box-shadow:none;}.post-title .glyphicon{  left:0px;  }  #UUID-POSTS-5a370f2384c73437218 .bitWidgetFrame{background-color:transparent;background-image:none;-webkit-border-bottom-left-radius: 4px;border-bottom-left-radius: 4px;-webkit-border-bottom-right-radius: 4px;border-bottom-right-radius: 4px;}</style>    <div class="qfe_wrapper">
+                							<div class="teaser_grid_container noanimale" style=';clear:both;' data-type="products"  data-cate=" " data-pcate="">
+                        				<ul style="min-height:60px;" class="qfe_thumbnails qfe_thumbnails-fluid vc_clearfix post_grid " data-layout-mode="fitRows" >
+                      						<li data-postid="10533" data-animaleinbegin="90%"  data-animalename="qfyfadeInUp" data-delay="0.1" data-duration=""   class="qfyanimate isotope-item qfy_item_post vc_span3 vc_span_mobile vc_span_mobile12 grid-cat-49 grid-cat-45 " style='max-width:24.95%;margin-bottom:10px;padding-bottom:10px;padding:10px;' >
+
+																		<div class='itembody' style="border-top:1px solid rgba(0,0,0,0.1);border-bottom:1px solid rgba(0,0,0,0.1);border-left:1px solid rgba(0,0,0,0.1);border-right:1px solid rgba(0,0,0,0.1);background-color:#ffffff;">
+
+																			<div class="post-thumb blog-media wf-td" style='overflow:hidden;display:block;width: 100%;text-align: center;padding-bottom:10px;vertical-align:middle;' >
+																				<a href="http://w-12776-28182-90257.13919614996.sites.cnfree01.qifeiye.com/?post_type=products&page_id=10533" class="bitImageAhover   link_image" title="问卷调查">
+																					<img data-t-id='13396' style='' class=" ag_image"
+																					src="Qcode.jpg" alt="20170906_151502_005" description=""    data-title="20170906_151502_005" title="" src-img ="" /><i></i></a>
+																				</div>
+
+																				<div class="post-title"  style='padding-top:25px;padding-bottom:3px;font-weight:normal;color:#333333;line-height:14px; vertical-align: top; text-align:center;width:100%; '>
+																					<a data-title="true" style="color:#333333;font-size:14px;font-family:微软雅黑;line-height:20px"
+																					href="http://w-12776-28182-90257.13919614996.sites.cnfree01.qifeiye.com/?post_type=products&page_id=10533" class="bitImageAhover link_title" title="ltrics">问卷调查</a>
+																				</div>
+
+																		</div>
+
+
+				                					</li>
+																	<div class="wf-mobile-visible" style="clear:both">
+																	</div>
+																	<li data-postid="10531" data-animaleinbegin="90%"  data-animalename="qfyfadeInUp" data-delay="0.2" data-duration=""   class="qfyanimate isotope-item qfy_item_post vc_span3 vc_span_mobile vc_span_mobile12 grid-cat-49 grid-cat-38 " style='max-width:24.95%;margin-bottom:10px;padding-bottom:10px;padding:10px;' >
+																		<div class='itembody' style="border-top:1px solid rgba(0,0,0,0.1);border-bottom:1px solid rgba(0,0,0,0.1);border-left:1px solid rgba(0,0,0,0.1);border-right:1px solid rgba(0,0,0,0.1);background-color:#ffffff;">
+
+																			<div class="post-thumb blog-media wf-td" style='overflow:hidden;display:block;width: 100%;text-align: center;padding-bottom:10px;vertical-align:middle;' >
+                                    			<a href="http://w-12776-28182-90257.13919614996.sites.cnfree01.qifeiye.com/?post_type=products&page_id=10531" class="bitImageAhover   link_image" title="进入实验">
+
+																					<img data-t-id='13399' style='' class=" ag_image"
+																					src="Icode.jpg" alt="20170906_151502_009" description="Aubergine"    data-title="20170906_151502_009" title="" src-img ="" /><i></i></a>
+																			</div>
+
+																			<div class="post-title"  style='padding-top:25px;padding-bottom:3px;font-weight:normal;color:#333333;line-height:14px; vertical-align: top; text-align:center;width:100%; '>
+																				<a data-title="true" style="color:#333333;font-size:14px;font-family:微软雅黑;line-height:20px"
+																				href="http://w-12776-28182-90257.13919614996.sites.cnfree01.qifeiye.com/?post_type=products&page_id=10531" class="bitImageAhover   link_title" title="进入实验">进入实验</a>
+																			</div>
+
+																		</div>
+
+
+				   												</li>
+																	<div class="wf-mobile-visible" style="clear:both">
+																	</div>
+          											</ul>
+        											</div>
+    												</div>
+														<div class="clear">
+														</div>
+
+
+
+													</div>
+												</div>
+											</div>
+										</div>
+										<style class="column_class qfy_style_class">
+										@media only screen and (min-width: 992px){.qfy-column-7-5a370f23821ea91485 > .column_inner {padding-left:0;padding-right:0;padding-top:0;padding-bottom:0;}.qfe_row .vc_span_class.qfy-column-7-5a370f23821ea91485 {};}
+										@media only screen and (max-width: 992px){.qfy-column-7-5a370f23821ea91485 > .column_inner{margin:0 auto 0 !important;padding-left:0;padding-right:0;padding-top:0;padding-bottom:0;}.display_entire .qfe_row .vc_span_class.qfy-column-7-5a370f23821ea91485 {}.qfy-column-7-5a370f23821ea91485 > .column_inner> .background-overlay,.qfy-column-7-5a370f23821ea91485 > .column_inner> .background-media{width:100% !important;left:0 !important;right:auto !important;}}
+										</style>
+									</div>
+								</div>
+
+							</section>
+ 						</div>
+      			<div class="clear">
+						</div>
+    			</div>
+        </div>
+      </div><!-- END .page-wrapper -->
+
+
+     <div class="clear">
+		 </div>
+	 </div>
+	 <div class="clear">
+	 </div>
+	</div>
+
+</div><!-- .wf-container -->
+</div><!-- .wf-wrap -->
+</div>
+	<!-- #main -->
+<footer id="footer" class="footer"  >
+
+
+
+
+							<!-- .wf-wrap -->
+	<!--  ************begin************* -->
+<style type="text/css" id="static-stylesheet-footer">
+#footer.footer .footer1 .widget{width: 99%;}#footer.footer .footer1 .widget.simplepage{width: 100%;}#footer.footer .footer2 .widget{width: 99%;}#footer.footer .footer2 .widget.simplepage{width: 100%;}#footer.footer .footer3 .widget{width: 99%;}#footer.footer .footer3 .widget.simplepage{width: 100%;}.bit_main_content{margin-top:0px;margin-bottom:80px}
+@media screen and (min-width: 760px) {.bit_main_content{min-height:100px;}}
+</style>
+<!--  ************end************* -->
+
+</footer>
+		<!-- !Bottom-bar -->
+<div id="bottom-bar" role="contentinfo" class="bottom-bit-bar" >
+		<div class="wf-wrap">
+			<div class="wf-table wf-mobile-collapsed">
+				<div >
+						<div class="wf-float-center">
+							<div>
+								<span style="color: rgb(128, 128, 128); font-family: 微软雅黑, Helvetica, Arial, Verdana, sans-serif; font-size: 12px; text-align: center;">&nbsp;版权所有  PSYLAB老尬带你做实验小组作业
+								</span>
+							</div>
+						</div>
+				</div>
+			</div>
+		</div><!-- .wf-wrap -->
+</div><!-- #bottom-bar -->
+
+
+
+<a href="#" class="scroll-top "></a>
+
+</div><!-- #page -->
+
+<link rel='stylesheet' id='qfy-gf-7752e4a2007e6959de754ef34187d984-css'  href='http://gfonts.qifeiye.com/css?family=Oswald|Montserrat|Raleway|Fjalla+One' type='text/css' media='all' />
+<style type='text/css'>
+
+</style>
+<div style='display:none;'></div></body>
+
+</html>
